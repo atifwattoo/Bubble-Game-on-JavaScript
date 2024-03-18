@@ -53,4 +53,3 @@ document.querySelector("#panel-Bottom")
 makeBubble();
 setTimer();
 getNewHit();
-// increseScore();
